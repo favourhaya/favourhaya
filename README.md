@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name Favour and I'm a comsci student at DCU.</p>
+<p align="left">My name is Favour and I'm a comsci student at DCU.</p>
 
 ###
 
